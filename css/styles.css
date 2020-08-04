@@ -1,0 +1,59 @@
+body{
+   color: #333;
+   text-align: center;
+   font-family: "Arial";
+   font-size: 16px;
+   margin: 0;
+   padding: 0;
+
+   background-color: #e6e6e6;
+}
+#cabezera{
+    display: flex;
+    align-items: center;
+}
+#cabezera{
+    background-color: #33A;
+    color: white;
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5em;
+    box-shadow: 0px 5px 50px 0px rgba(0,0,0,0.75);
+}
+.image-logo{
+    display: block;
+    width: 40px;
+    height: 40px;
+}
+.title-blog{
+    padding-left: 15px;
+}
+#cabezera #tagline{
+    margin: 0 0 0 1em;
+    font-weight: normal;
+    font-size: 0.8em;
+    padding-left: 1em;
+}
+#container{
+    width: 70%;
+    border: 2px solid grey;
+    text-align: left;
+    margin: 0 auto;
+    padding: 0;
+}
+#post{
+    padding: 1em;
+}
+#container h1{
+    font-size: 20px;
+}
+
+footer{
+    background-color: rgb(59, 59, 59);
+    text-align: center;
+    color: white;
+    padding: 1em 0;
+}
+#container h1{
+    font-size: 20px;
+}
