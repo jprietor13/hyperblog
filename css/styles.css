@@ -53,7 +53,14 @@ footer{
     text-align: center;
     color: white;
     padding: 1em 0;
+    overflow: hidden;
 }
 #container h1{
     font-size: 20px;
+}
+.visitanos{
+    color: white;
+    float: right;
+    padding-right: 10px;
+    font-size: 12px;
 }
